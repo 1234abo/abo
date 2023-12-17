@@ -269,7 +269,7 @@ Thank you.
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/grouppi.jpg "Team Picture")
 
 ---
 **Test**: This is atest
