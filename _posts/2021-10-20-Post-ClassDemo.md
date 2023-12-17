@@ -6,10 +6,10 @@ title:  Read Lester Holt’s interview with Iranian President Ebrahim Raisi
 
 ## This is no idea
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- no body
+- پلنگ هستش
+- leopard
+- 4k
 
 [x](https://translate.google.com/)
 
@@ -269,7 +269,7 @@ Thank you.
 
 
 
-![alt text](../assets/images/grouppi.jpg "Team Picture")
+![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
 **Test**: This is atest
