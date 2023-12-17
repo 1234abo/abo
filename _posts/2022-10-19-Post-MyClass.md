@@ -1,10 +1,10 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: کلاس !!
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- اتفاق خاصی نیفتاد
+- 
+- 
 
 # this is a header
