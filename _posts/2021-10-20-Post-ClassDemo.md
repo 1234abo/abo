@@ -4,7 +4,7 @@ title:  Read Lester Holt’s interview with Iranian President Ebrahim Raisi
 
 ---
 
-## This is my team at Microsoft
+## This is my team at Microsof
 People in the picture are:
 - Arul
 - Fai
